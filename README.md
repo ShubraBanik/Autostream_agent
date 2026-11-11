@@ -1,6 +1,6 @@
 # AutoStream Social-to-Lead Agent
 
-An AI-powered conversational agent for **AutoStream**, a fictional SaaS video editing platform for content creators. Built for the ServiceHive / Inflx ML Intern Assignment.
+An AI-powered conversational agent for **AutoStream**, a fictional SaaS video editing platform for content creators. 
 
 ---
 
